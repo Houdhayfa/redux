@@ -1,0 +1,5 @@
+export const INCREASE="INCREASE"
+export const DECREASE="DECREASE"
+export const RESET="RESET"
+export const HIDE_COUNTER="HIDE_COUNTER"
+export const SHOW_COUNTER="SHOW_COUNTER"
